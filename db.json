@@ -1,0 +1,109 @@
+{
+  "lista": [
+    {
+      "id": "2",
+      "nome": "Ciclano 2",
+      "telefone": "8765-4321",
+      "email": "ciclano@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Beltrano",
+      "telefone": "4321-5678",
+      "email": "beltrano@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Enio",
+      "telefone": "1234-5678",
+      "email": "enio@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/77.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Pocket",
+      "telefone": "4321-8723",
+      "email": "pocket@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/78.jpg"
+    },
+    {
+      "id": "6",
+      "nome": "Ernani",
+      "telefone": "1948-5678",
+      "email": "ernani@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/79.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Matheus",
+      "telefone": "8165-5678",
+      "email": "matheus@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/80.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Nilson",
+      "telefone": "5125-5678",
+      "email": "nilson@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/81.jpg"
+    },
+    {
+      "id": "9",
+      "nome": "Eduardo",
+      "telefone": "9182-5131",
+      "email": "eduardo@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/82.jpg"
+    },
+    {
+      "id": "10",
+      "nome": "Rafael",
+      "telefone": "9182-5131",
+      "email": "rafael@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/83.jpg"
+    },
+    {
+      "id": "11",
+      "nome": "João",
+      "telefone": "9182-5131",
+      "email": "joao@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/84.jpg"
+    },
+    {
+      "id": "12",
+      "nome": "Pedro",
+      "telefone": "9182-5131",
+      "email": "pedro@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    {
+      "id": "13",
+      "nome": "Lucas",
+      "telefone": "9182-5131",
+      "email": "lucas@email.com",
+      "imagem": "https://randomuser.me/api/portraits/men/86.jpg"
+    },
+    {
+      "id": "cc28",
+      "nome": "Glauber",
+      "email": "Glauber@email.com",
+      "telefone": "819373782732",
+      "imagem": "https://randomuser.me/api/portraits/men/87.jpg"
+    },
+    {
+      "id": "ee7c",
+      "nome": "Thiago",
+      "email": "Thiago@email.com",
+      "telefone": "8167361726272",
+      "imagem": "https://randomuser.me/api/portraits/men/88.jpg"
+    },
+    {
+      "id": "9630",
+      "nome": "Enio2",
+      "email": "Enio@email.com",
+      "telefone": "715273636",
+      "imagem": "https://randomuser.me/api/portraits/men/89.jpg"
+    }
+  ]
+}
